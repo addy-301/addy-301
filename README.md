@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aditya Verma.
-- 👀 I’m interested in Front-end developing, database management and data analysis.
-- 🌱 I’m currently learning ES6 for web development, SQL for DBM and Excel for data analysis.
-- 💞️ I’m looking to collaborate on projects at basic level to help me level up!
+- 👀 I’m interested in Front-end developing, UI/UX Designing, Database Management, Data Analysis and Cyber-Security.
+- 📋 I have basic knowledge of programming languages like Java, C, C++, Python, JS and can work my way through command-line too.
+- 🌱 I’m currently learning React for Web Development, SQL for DBM, Excel for data analysis and Shell Scripting for CyberSec.
+- 💞️ I’m looking to collaborate on projects at basic level to help me level up and gain experience by contributing to open source projects!
 - 📫 How to reach me ... you can reach me via my gmail ID- vaditya832@gmail.com.
 
 <!---
