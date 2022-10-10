@@ -1,6 +1,4 @@
 
-SIIIIKE  NIGGA!
-
 - 👋 Hi, I’m Aditya Verma.
 - 👀 I’m interested in Front-end developing, UI/UX Designing, Database Management, Data Analysis and Cyber-Security.
 - 📋 I have basic knowledge of programming languages like Java, C, C++, Python, JS and can work my way through command-line too.
