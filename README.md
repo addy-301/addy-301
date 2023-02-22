@@ -1,9 +1,8 @@
-<header>
-- 👋 Hello there, you can call me Addy!</header>
-- 👀 I’m interested in Front-end developing, UI/UX Designing, Database Management, Data Analysis and Cyber-Security.
-- 📋 I have basic knowledge of programming languages like Java, C, C++, Python, JS and can work my way through command-line too.
-- 🌱 I’m currently learning VueJS for Web Development, SQL for DBM, Excel for data analysis and Shell Scripting for CyberSec.
-- 💞️ I’m looking to collaborate on projects at basic level to help me level up and gain experience by contributing to open source projects!
+<p align="center">
+- 👋 Hello there, you can call me Addy!</p>
+
+- 👀 I’m interested in Front-end developing, UI/UX Designing and Data Analysis.
+- 🌱 I’m currently learning VueJS for Web Development and Excel for data analysis.
 - 📫 How to reach me ... you can reach me via my gmail ID- vaditya832@gmail.com.
 
 **TOOLS:**
@@ -23,6 +22,11 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+**FRAMEWORKS:**
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ 
 ---
   <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. </p>
 </p>
