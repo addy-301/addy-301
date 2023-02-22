@@ -1,5 +1,10 @@
 <p align="center">
-- 👋 Hello there, you can call me Addy!<br>
+  <img width="480" height="360" src="https://user-images.githubusercontent.com/84838153/220697334-f3157bee-33f8-4eb4-bdfc-fd3518979462.png">
+</p>
+
+
+<p align="center">
+- 👋 Hello there, nothing here just Patrick!<br>
 - 👀 I’m interested in Front-end developing, UI/UX Designing and Data Analysis.
   </p>
   
@@ -48,11 +53,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
 ---
-  <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. 
-  
-  <br>
-  
-  - 📫 How to reach me ... you can reach me via my gmail ID- vaditya832@gmail.com.
+  <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. <br> 📫 Reach me via my gmail ID- vaditya832@gmail.com.
   
 </p>
 
