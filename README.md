@@ -1,15 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hello there, you can call me Addy!
+<header>
+- 👋 Hello there, you can call me Addy!</header>
 - 👀 I’m interested in Front-end developing, UI/UX Designing, Database Management, Data Analysis and Cyber-Security.
 - 📋 I have basic knowledge of programming languages like Java, C, C++, Python, JS and can work my way through command-line too.
 - 🌱 I’m currently learning VueJS for Web Development, SQL for DBM, Excel for data analysis and Shell Scripting for CyberSec.
