@@ -49,7 +49,11 @@
 
 ---
   <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. 
+  
+  <br>
+  
   - 📫 How to reach me ... you can reach me via my gmail ID- vaditya832@gmail.com.
+  
 </p>
 
 <!---
