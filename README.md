@@ -33,10 +33,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-<img width="282" src="https://addy-301-github-readme-stats.vercel.app/api/pin/?username=addy-301&repo=pokedex&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://addy-301-github-readme-stats.vercel.app/api/pin/?username=addy-301&repo=snow&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=addy-301&repo=pokedex&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
+---
+  <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. </p>
+</p>
 
 <!---
 addy-301/addy-301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
