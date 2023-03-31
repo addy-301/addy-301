@@ -4,7 +4,7 @@
 
 
 <p align="center">
-- 👋 Hello there, nothing here just Patrick!<br>
+- 👋 Hello there, nothing here just a surprised Patrick!<br>
 - 👀 I’m interested in Front-end developing, UI/UX Designing and Data Analysis.
   </p>
   
