@@ -48,7 +48,7 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy-301&layout=compact&theme=cobalt&hide_border=true" />
 
 ---
   <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. <br> 📫 Reach me via my gmail ID- vaditya832@gmail.com.
