@@ -1,11 +1,10 @@
+<h2 align="center">
+  hi, i'm addy!
+  
+  💻 [averma.vercel.app](https://averma.vercel.app) 
+  </h2>
 <p align="center">
-  <img width="480" height="360" src="https://user-images.githubusercontent.com/84838153/220697334-f3157bee-33f8-4eb4-bdfc-fd3518979462.png">
-</p>
-
-
-<p align="center">
-- 👋 Hello there, nothing here just a surprised Patrick!<br>
-- 👀 I’m interested in Front-end developing, UI/UX Designing and Data Analysis.
+ 👀 I like to build things for fun.
   </p>
   
 ---
@@ -55,14 +54,7 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy-301&layout=compact&theme=cobalt&hide_border=true" />
-
 ---
-  <p align="center"> © 2023 Addy, All Rights Reserved. Made with ❤️ for a better web. <br> 📫 Reach me via my gmail ID- vaditya832@gmail.com.
+  <p align="center"> © 2026 Addy, All Rights Reserved. Made with ❤️ for a better web. <br> 📫 Reach me via my gmail ID- vaditya832@gmail.com.
   
 </p>
-
-<!---
-addy-301/addy-301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
